@@ -1,0 +1,1319 @@
+ 
+G06, C/N0=35.5, peak=1.3, codei= 3136, freq= -6800.0
+
+**** G16 sdr thread 16 start! ****
+
+G02, C/N0=35.8, peak=1.1, codei= 3578, freq=     0.0
+
+**** G17 sdr thread 17 start! ****
+
+G07, C/N0=35.9, peak=1.1, codei= 1855, freq=     0.0
+
+**** G18 sdr thread 18 start! ****
+
+G08, C/N0=35.6, peak=1.1, codei= 1685, freq=     0.0
+
+**** G19 sdr thread 19 start! ****
+
+G03, C/N0=34.9, peak=1.0, codei=  233, freq=     0.0
+
+G09, C/N0=35.2, peak=1.0, codei= 1955, freq=     0.0
+
+G04, C/N0=35.6, peak=1.1, codei= 1017, freq=     0.0
+
+**** G20 sdr thread 20 start! ****
+
+G10, C/N0=34.8, peak=1.1, codei=   19, freq=     0.0
+
+G01, C/N0=35.5, peak=1.2, codei= 2958, freq=     0.0
+
+G11, C/N0=35.5, peak=1.5, codei= 3578, freq= -2000.0
+
+G12, C/N0=35.2, peak=1.0, codei= 1489, freq=     0.0
+
+**** G21 sdr thread 21 start! ****
+
+G05, C/N0=35.4, peak=1.3, codei= 2935, freq=  7000.0
+
+G13, C/N0=35.4, peak=1.0, codei= 3658, freq=     0.0
+
+G14, C/N0=36.0, peak=1.0, codei= 1882, freq=     0.0
+
+G15, C/N0=34.9, peak=1.0, codei= 2345, freq=     0.0
+
+G16, C/N0=35.4, peak=1.2, codei= 1622, freq= -2000.0
+
+**** G22 sdr thread 22 start! ****
+
+G17, C/N0=34.9, peak=1.3, codei= 1218, freq=  5200.0
+
+**** G23 sdr thread 23 start! ****
+
+G18, C/N0=35.2, peak=1.0, codei=  706, freq=     0.0
+
+**** G24 sdr thread 24 start! ****
+
+G06, C/N0=36.0, peak=1.2, codei= 2541, freq=     0.0
+
+**** G25 sdr thread 25 start! ****
+
+G19, C/N0=35.4, peak=1.3, codei= 2120, freq= -1200.0
+
+G02, C/N0=35.6, peak=1.1, codei= 2714, freq=     0.0
+
+**** G26 sdr thread 26 start! ****
+
+G20, C/N0=35.3, peak=1.0, codei=  472, freq=     0.0
+
+G07, C/N0=35.6, peak=1.2, codei= 3847, freq=     0.0
+
+**** G27 sdr thread 27 start! ****
+
+**** G28 sdr thread 28 start! ****
+
+G21, C/N0=35.2, peak=1.0, codei=  894, freq=     0.0
+
+G08, C/N0=35.2, peak=1.3, codei=  389, freq= -6600.0
+
+**** G29 sdr thread 29 start! ****
+
+**** G30 sdr thread 30 start! ****
+
+G22, C/N0=34.8, peak=1.2, codei= 1375, freq= -2800.0
+
+**** G31 sdr thread 31 start! ****
+
+G03, C/N0=35.2, peak=1.3, codei= 3416, freq= -2600.0
+
+G09, C/N0=34.8, peak=1.2, codei=  362, freq=  -600.0
+
+**** G32 sdr thread 32 start! ****
+
+G04, C/N0=35.6, peak=1.2, codei= 1819, freq=     0.0
+
+G23, C/N0=35.3, peak=1.0, codei=  399, freq=     0.0
+
+G10, C/N0=36.5, peak=1.2, codei= 1901, freq=     0.0
+
+G01, C/N0=35.9, peak=1.1, codei= 3826, freq=     0.0
+
+G11, C/N0=34.9, peak=1.0, codei= 1146, freq=     0.0
+
+G12, C/N0=34.9, peak=1.0, codei= 2542, freq=     0.0
+
+G05, C/N0=35.2, peak=1.3, codei= 3775, freq= -1200.0
+
+G13, C/N0=35.0, peak=1.0, codei= 1023, freq=     0.0
+
+G24, C/N0=36.6, peak=1.3, codei=  978, freq=     0.0
+
+G14, C/N0=35.1, peak=1.0, codei= 2027, freq=     0.0
+
+G15, C/N0=35.6, peak=1.2, codei= 1619, freq=     0.0
+
+G16, C/N0=35.2, peak=1.2, codei= 3305, freq=  3000.0
+
+G25, C/N0=35.2, peak=1.1, codei=  655, freq=     0.0
+
+G17, C/N0=35.5, peak=1.1, codei= 1508, freq=     0.0
+
+G26, C/N0=35.3, peak=1.0, codei=  345, freq=     0.0
+
+G18, C/N0=36.8, peak=1.6, codei= 2871, freq=     0.0
+
+G27, C/N0=34.8, peak=1.0, codei=  756, freq=     0.0
+
+G06, C/N0=35.0, peak=1.0, codei= 1335, freq=     0.0
+
+G19, C/N0=35.9, peak=1.3, codei= 3810, freq=     0.0
+
+G28, C/N0=35.7, peak=1.1, codei= 3718, freq=     0.0
+
+G02, C/N0=36.6, peak=1.3, codei=  708, freq=     0.0
+
+G29, C/N0=35.9, peak=1.4, codei= 1657, freq= -3200.0
+
+G20, C/N0=35.9, peak=1.1, codei=  761, freq=     0.0
+
+G07, C/N0=35.5, peak=1.0, codei=  164, freq=     0.0
+
+G30, C/N0=35.4, peak=1.1, codei= 2699, freq=     0.0
+
+G21, C/N0=34.9, peak=1.0, codei= 1127, freq=     0.0
+
+G31, C/N0=36.0, peak=1.0, codei= 2040, freq=     0.0
+
+G08, C/N0=36.8, peak=1.2, codei= 3471, freq=     0.0
+
+G32, C/N0=35.5, peak=1.0, codei=  355, freq=     0.0
+
+G22, C/N0=35.9, peak=1.2, codei= 1706, freq=     0.0
+
+G03, C/N0=36.7, peak=1.4, codei=  522, freq=     0.0
+
+G09, C/N0=35.2, peak=1.1, codei= 2134, freq=     0.0
+
+G04, C/N0=35.4, peak=1.3, codei= 2769, freq=  2000.0
+
+G23, C/N0=35.6, peak=1.2, codei=  571, freq=     0.0
+
+G10, C/N0=35.8, peak=1.1, codei= 1584, freq=     0.0
+
+G01, C/N0=34.8, peak=1.0, codei= 3984, freq=     0.0
+
+G11, C/N0=35.3, peak=1.0, codei= 2458, freq=     0.0
+
+G12, C/N0=35.3, peak=1.2, codei= 2061, freq=     0.0
+
+G05, C/N0=35.6, peak=1.0, codei= 1393, freq=     0.0
+
+G13, C/N0=35.6, peak=1.1, codei= 1642, freq=     0.0
+
+G24, C/N0=36.0, peak=1.2, codei= 2489, freq=     0.0
+
+G14, C/N0=35.5, peak=1.1, codei=  645, freq=     0.0
+
+G15, C/N0=35.2, peak=1.2, codei= 2084, freq=  6600.0
+
+G16, C/N0=35.3, peak=1.1, codei= 1494, freq=     0.0
+
+G25, C/N0=34.9, peak=1.3, codei= 3382, freq=  6000.0
+
+G17, C/N0=35.8, peak=1.2, codei= 2351, freq=     0.0
+
+G26, C/N0=35.5, peak=1.1, codei= 1478, freq=     0.0
+
+G18, C/N0=35.2, peak=1.4, codei= 3031, freq= -6000.0
+
+G27, C/N0=35.8, peak=1.0, codei= 1782, freq=     0.0
+
+G06, C/N0=35.3, peak=1.1, codei= 3476, freq=     0.0
+
+G19, C/N0=34.8, peak=1.0, codei= 2603, freq=     0.0
+
+G28, C/N0=35.2, peak=1.0, codei= 3953, freq=     0.0
+
+G02, C/N0=35.1, peak=1.2, codei= 1826, freq=  6400.0
+
+G29, C/N0=35.3, peak=1.0, codei= 2775, freq=     0.0
+
+G20, C/N0=35.7, peak=1.1, codei= 2601, freq=     0.0
+
+G07, C/N0=35.5, peak=1.2, codei= 1732, freq=     0.0
+
+G30, C/N0=35.6, peak=1.1, codei= 3389, freq=     0.0
+
+G21, C/N0=36.0, peak=1.2, codei= 2180, freq=     0.0
+
+G31, C/N0=35.0, peak=1.0, codei= 3331, freq=     0.0
+
+G08, C/N0=35.1, peak=1.1, codei= 1131, freq=     0.0
+
+G32, C/N0=35.1, peak=1.1, codei=  146, freq=     0.0
+
+G22, C/N0=36.2, peak=1.4, codei= 3784, freq=     0.0
+
+G03, C/N0=35.5, peak=1.2, codei= 2117, freq=     0.0
+
+G09, C/N0=35.3, peak=1.3, codei= 2222, freq= -3000.0
+
+G04, C/N0=35.4, peak=1.4, codei=  632, freq=  1200.0
+
+G23, C/N0=35.3, peak=1.4, codei= 3592, freq= -4600.0
+
+G10, C/N0=35.9, peak=1.1, codei=  778, freq=     0.0
+
+G11, C/N0=37.0, peak=1.6, codei= 3196, freq=     0.0
+
+G01, C/N0=35.4, peak=1.1, codei= 3887, freq=     0.0
+
+G12, C/N0=34.9, peak=1.3, codei= 1032, freq=  4000.0
+
+G05, C/N0=36.4, peak=1.2, codei= 1439, freq=     0.0
+
+G13, C/N0=35.0, peak=1.2, codei= 3575, freq= -2400.0
+
+G24, C/N0=35.6, peak=1.1, codei=  897, freq=     0.0
+
+G14, C/N0=35.3, peak=1.1, codei= 1325, freq=     0.0
+
+G15, C/N0=35.9, peak=1.2, codei= 3240, freq=     0.0
+
+G16, C/N0=35.8, peak=1.0, codei= 3484, freq=     0.0
+
+G25, C/N0=35.8, peak=1.1, codei= 1198, freq=     0.0
+
+G17, C/N0=35.1, peak=1.0, codei= 3338, freq=     0.0
+
+G26, C/N0=36.1, peak=1.3, codei= 2507, freq=     0.0
+
+G18, C/N0=35.9, peak=1.2, codei= 2641, freq=     0.0
+
+G27, C/N0=35.0, peak=1.1, codei= 2785, freq=     0.0
+
+G06, C/N0=35.8, peak=1.2, codei= 1920, freq=     0.0
+
+G19, C/N0=36.4, peak=1.1, codei= 3175, freq=     0.0
+
+G28, C/N0=35.3, peak=1.4, codei= 2130, freq=  5200.0
+
+G02, C/N0=35.6, peak=1.2, codei=  744, freq=     0.0
+
+G29, C/N0=35.9, peak=1.3, codei= 3276, freq=     0.0
+
+G20, C/N0=35.2, peak=1.1, codei= 3324, freq=     0.0
+
+G07, C/N0=35.1, peak=1.1, codei=  261, freq=     0.0
+
+G30, C/N0=35.7, peak=1.1, codei= 3287, freq=     0.0
+
+G21, C/N0=35.5, peak=1.1, codei=  573, freq=     0.0
+
+G31, C/N0=35.1, peak=1.0, codei= 3115, freq=     0.0
+
+G08, C/N0=36.0, peak=1.1, codei= 3378, freq=     0.0
+
+G32, C/N0=35.7, peak=1.1, codei=  225, freq=     0.0
+
+G22, C/N0=36.5, peak=1.3, codei= 2287, freq=     0.0
+
+G03, C/N0=34.9, peak=1.2, codei= 3640, freq= -4000.0
+
+G09, C/N0=35.1, peak=1.2, codei= 2606, freq=  3200.0
+
+G04, C/N0=36.4, peak=1.0, codei= 1913, freq=     0.0
+
+G23, C/N0=35.2, peak=1.1, codei= 2563, freq=     0.0
+
+G10, C/N0=35.0, peak=1.1, codei= 3693, freq=     0.0
+
+G11, C/N0=35.9, peak=1.1, codei= 1389, freq=     0.0
+
+G01, C/N0=35.9, peak=1.0, codei= 1926, freq=     0.0
+
+G12, C/N0=35.4, peak=1.1, codei= 2852, freq=     0.0
+
+G05, C/N0=35.7, peak=1.2, codei= 2028, freq=     0.0
+
+G13, C/N0=36.3, peak=1.4, codei=  352, freq=     0.0
+
+G24, C/N0=35.1, peak=1.3, codei=  595, freq=  4400.0
+
+G14, C/N0=35.5, peak=1.1, codei= 1507, freq=     0.0
+
+G15, C/N0=34.9, peak=1.3, codei= 1212, freq= -1200.0
+
+G16, C/N0=35.3, peak=1.1, codei= 1223, freq=     0.0
+
+G25, C/N0=35.5, peak=1.1, codei= 1723, freq=     0.0
+
+G17, C/N0=35.9, peak=1.2, codei=  224, freq=     0.0
+
+G26, C/N0=35.4, peak=1.1, codei= 3192, freq=     0.0
+
+G18, C/N0=35.2, peak=1.1, codei= 2529, freq=     0.0
+
+G27, C/N0=35.4, peak=1.0, codei= 3014, freq=     0.0
+
+G06, C/N0=35.9, peak=1.1, codei= 3629, freq=     0.0
+
+G19, C/N0=35.5, peak=1.1, codei= 3432, freq=     0.0
+
+G28, C/N0=35.9, peak=1.2, codei= 2634, freq=     0.0
+
+G02, C/N0=36.0, peak=1.2, codei= 2040, freq=     0.0
+
+G29, C/N0=35.3, peak=1.0, codei=  201, freq=     0.0
+
+G20, C/N0=35.2, peak=1.0, codei=  981, freq=     0.0
+
+G07, C/N0=35.9, peak=1.1, codei= 3563, freq=     0.0
+
+G30, C/N0=36.3, peak=1.2, codei= 1127, freq=     0.0
+
+G21, C/N0=35.3, peak=1.0, codei= 3053, freq=     0.0
+
+G31, C/N0=35.1, peak=1.1, codei= 2236, freq=     0.0
+
+G08, C/N0=35.8, peak=1.4, codei= 2530, freq=  1400.0
+
+G32, C/N0=35.1, peak=1.0, codei= 3736, freq=     0.0
+
+G22, C/N0=35.0, peak=1.2, codei= 2435, freq=  -400.0
+
+G03, C/N0=35.8, peak=1.1, codei=  306, freq=     0.0
+
+G09, C/N0=35.7, peak=1.0, codei= 3220, freq=     0.0
+
+G04, C/N0=35.4, peak=1.1, codei= 2424, freq=     0.0
+
+G23, C/N0=35.2, peak=1.1, codei= 2080, freq=     0.0
+
+G10, C/N0=35.4, peak=1.1, codei=  433, freq=     0.0
+
+G11, C/N0=35.2, peak=1.0, codei= 2988, freq=     0.0
+
+G01, C/N0=36.0, peak=1.2, codei= 3657, freq=     0.0
+
+G12, C/N0=34.7, peak=1.2, codei= 2629, freq= -1400.0
+
+G05, C/N0=35.4, peak=1.3, codei= 2130, freq=  6400.0
+
+G13, C/N0=35.9, peak=1.2, codei= 2041, freq=     0.0
+
+G24, C/N0=35.7, peak=1.2, codei= 3234, freq=     0.0
+
+G14, C/N0=35.6, peak=1.1, codei=  613, freq=     0.0
+
+G15, C/N0=35.2, peak=1.1, codei=  977, freq=     0.0
+
+G16, C/N0=34.9, peak=1.1, codei=  859, freq=     0.0
+
+G25, C/N0=35.6, peak=1.1, codei=  742, freq=     0.0
+
+G17, C/N0=35.1, peak=1.0, codei= 2725, freq=     0.0
+
+G26, C/N0=35.4, peak=1.0, codei= 2967, freq=     0.0
+
+G18, C/N0=35.7, peak=1.2, codei= 2487, freq=     0.0
+
+G27, C/N0=35.5, peak=1.0, codei= 2014, freq=     0.0
+
+G06, C/N0=35.3, peak=1.2, codei= 2581, freq= -4400.0
+
+G19, C/N0=35.7, peak=1.2, codei= 3977, freq=     0.0
+
+G28, C/N0=35.3, peak=1.1, codei= 3067, freq=     0.0
+
+G02, C/N0=35.5, peak=1.1, codei=  192, freq=     0.0
+
+G29, C/N0=35.9, peak=1.0, codei= 3841, freq=     0.0
+
+G20, C/N0=35.4, peak=1.0, codei= 1408, freq=     0.0
+
+G07, C/N0=35.1, peak=1.2, codei= 1566, freq=  1600.0
+
+G30, C/N0=36.5, peak=1.3, codei= 3681, freq=     0.0
+
+G21, C/N0=35.1, peak=1.0, codei= 3240, freq=     0.0
+
+G31, C/N0=35.3, peak=1.4, codei= 3809, freq=  1800.0
+
+G08, C/N0=35.2, peak=1.0, codei= 2169, freq=     0.0
+
+G32, C/N0=35.8, peak=1.0, codei=  456, freq=     0.0
+
+G22, C/N0=35.2, peak=1.4, codei=  286, freq= -3200.0
+
+G03, C/N0=35.2, peak=1.1, codei= 3215, freq=     0.0
+
+G09, C/N0=35.5, peak=1.0, codei= 1129, freq=     0.0
+
+G04, C/N0=35.3, peak=1.3, codei=  338, freq= -1600.0
+
+G23, C/N0=35.1, peak=1.3, codei=  732, freq= -3200.0
+
+G10, C/N0=35.3, peak=1.0, codei= 1502, freq=     0.0
+
+G11, C/N0=35.9, peak=1.3, codei= 1043, freq=     0.0
+
+G01, C/N0=35.5, peak=1.1, codei= 1745, freq=     0.0
+
+G12, C/N0=35.8, peak=1.1, codei= 3029, freq=     0.0
+
+G05, C/N0=35.1, peak=1.0, codei= 1906, freq=     0.0
+
+G13, C/N0=35.1, peak=1.1, codei=  465, freq=     0.0
+
+G24, C/N0=35.1, peak=1.0, codei= 2050, freq=     0.0
+
+G14, C/N0=34.9, peak=1.3, codei= 1789, freq=  6200.0
+
+G15, C/N0=35.4, peak=1.1, codei=  743, freq=     0.0
+
+G16, C/N0=35.4, peak=1.1, codei= 3405, freq=     0.0
+
+G25, C/N0=35.0, peak=1.2, codei= 3210, freq=  3800.0
+
+G17, C/N0=36.0, peak=1.2, codei= 1499, freq=     0.0
+
+G26, C/N0=36.2, peak=1.2, codei= 3260, freq=     0.0
+
+G18, C/N0=35.1, peak=1.2, codei= 1118, freq=  5800.0
+
+G27, C/N0=35.1, peak=1.0, codei=  116, freq=     0.0
+
+G06, C/N0=37.1, peak=1.5, codei=  516, freq=     0.0
+
+G19, C/N0=35.4, peak=1.1, codei= 1731, freq=     0.0
+
+G28, C/N0=35.2, peak=1.1, codei= 2858, freq=     0.0
+
+G02, C/N0=35.3, peak=1.0, codei= 3188, freq=     0.0
+
+G29, C/N0=35.4, peak=1.1, codei= 2367, freq=     0.0
+
+G20, C/N0=34.9, peak=1.1, codei= 1412, freq=     0.0
+
+G07, C/N0=35.4, peak=1.0, codei= 1776, freq=     0.0
+
+G30, C/N0=35.1, peak=1.3, codei= 1515, freq= -6000.0
+
+G21, C/N0=35.0, peak=1.4, codei= 2225, freq=  5000.0
+
+G31, C/N0=35.8, peak=1.2, codei=  563, freq=     0.0
+
+G08, C/N0=36.5, peak=1.3, codei=  516, freq=     0.0
+
+G32, C/N0=35.9, peak=1.2, codei= 3018, freq=     0.0
+
+G22, C/N0=35.0, peak=1.3, codei=    9, freq= -4400.0
+
+G03, C/N0=35.1, peak=1.0, codei=  321, freq=     0.0
+
+G09, C/N0=35.3, peak=1.0, codei= 2378, freq=     0.0
+
+G04, C/N0=35.5, peak=1.4, codei=  569, freq= -1800.0
+
+G23, C/N0=36.4, peak=1.4, codei= 3912, freq=     0.0
+
+G10, C/N0=35.4, peak=1.0, codei= 3475, freq=     0.0
+
+G11, C/N0=34.9, peak=1.0, codei= 3625, freq=     0.0
+
+G01, C/N0=35.2, peak=1.1, codei= 1358, freq=     0.0
+
+G12, C/N0=35.5, peak=1.0, codei=  492, freq=     0.0
+
+G05, C/N0=35.4, peak=1.1, codei= 1658, freq=     0.0
+
+G13, C/N0=35.1, peak=1.0, codei= 3180, freq=     0.0
+
+G24, C/N0=36.1, peak=1.1, codei= 2572, freq=     0.0
+
+G14, C/N0=35.1, peak=1.2, codei= 2699, freq=  6400.0
+
+G15, C/N0=35.3, peak=1.2, codei=  822, freq=     0.0
+
+G16, C/N0=35.4, peak=1.0, codei= 3746, freq=     0.0
+
+G25, C/N0=35.0, peak=1.1, codei= 3370, freq=     0.0
+
+G17, C/N0=36.6, peak=1.3, codei= 3796, freq=     0.0
+
+G26, C/N0=34.7, peak=1.0, codei= 2786, freq=     0.0
+
+G18, C/N0=35.1, peak=1.3, codei= 3606, freq=  1200.0
+
+G27, C/N0=35.4, peak=1.1, codei= 3597, freq=     0.0
+
+G06, C/N0=35.6, peak=1.0, codei= 1597, freq=     0.0
+
+G19, C/N0=34.9, peak=1.1, codei= 3834, freq=   800.0
+
+G28, C/N0=35.8, peak=1.6, codei=  679, freq= -4200.0
+
+G02, C/N0=35.9, peak=1.3, codei= 2453, freq= -4400.0
+
+G29, C/N0=35.7, peak=1.1, codei= 2674, freq=     0.0
+
+G20, C/N0=35.7, peak=1.3, codei= 3809, freq=     0.0
+
+G07, C/N0=35.3, peak=1.0, codei= 1892, freq=     0.0
+
+G30, C/N0=35.0, peak=1.0, codei= 1477, freq=     0.0
+
+G21, C/N0=35.8, peak=1.1, codei= 1855, freq=     0.0
+
+G31, C/N0=36.1, peak=1.1, codei= 2911, freq=     0.0
+
+G08, C/N0=34.8, peak=1.0, codei= 3672, freq=     0.0
+
+G32, C/N0=36.3, peak=1.3, codei=  799, freq=     0.0
+
+G22, C/N0=36.3, peak=1.1, codei= 3034, freq=     0.0
+
+G03, C/N0=35.5, peak=1.2, codei= 3364, freq=     0.0
+
+G09, C/N0=35.1, peak=1.0, codei= 1849, freq=     0.0
+
+G04, C/N0=34.9, peak=1.3, codei= 2653, freq=  6400.0
+
+G23, C/N0=35.9, peak=1.2, codei= 1499, freq=     0.0
+
+G10, C/N0=36.1, peak=1.4, codei= 3720, freq=     0.0
+
+G11, C/N0=36.9, peak=1.3, codei= 2978, freq=     0.0
+
+G01, C/N0=35.7, peak=1.1, codei= 1606, freq=     0.0
+
+G12, C/N0=35.5, peak=1.1, codei= 3825, freq=     0.0
+
+G05, C/N0=35.5, peak=1.1, codei= 3866, freq=     0.0
+
+G13, C/N0=35.5, peak=1.4, codei=  430, freq=  1000.0
+
+G24, C/N0=35.4, peak=1.1, codei=  567, freq=     0.0
+
+G14, C/N0=35.3, peak=1.1, codei= 1112, freq=  4000.0
+
+G15, C/N0=35.7, peak=1.1, codei= 1113, freq=     0.0
+
+G16, C/N0=35.6, peak=1.0, codei= 2955, freq=     0.0
+
+G25, C/N0=35.1, peak=1.1, codei= 3137, freq=     0.0
+
+G17, C/N0=35.6, peak=1.1, codei=  357, freq=     0.0
+
+G26, C/N0=35.0, peak=1.0, codei= 2762, freq=     0.0
+
+G18, C/N0=35.8, peak=1.1, codei= 2581, freq=     0.0
+
+G27, C/N0=35.6, peak=1.1, codei=   24, freq=     0.0
+
+G06, C/N0=35.0, peak=1.3, codei= 2603, freq=  -800.0
+
+G19, C/N0=35.3, peak=1.1, codei= 1495, freq=     0.0
+
+G28, C/N0=35.5, peak=1.1, codei=   76, freq=     0.0
+
+G02, C/N0=35.4, peak=1.1, codei= 3527, freq=     0.0
+
+G29, C/N0=35.2, peak=1.0, codei= 3464, freq=     0.0
+
+G20, C/N0=36.2, peak=1.2, codei= 2536, freq=     0.0
+
+G07, C/N0=36.1, peak=1.2, codei= 1952, freq=     0.0
+
+G30, C/N0=35.8, peak=1.2, codei= 1840, freq=     0.0
+
+G21, C/N0=35.8, peak=1.2, codei=  317, freq=     0.0
+
+G31, C/N0=35.5, peak=1.6, codei= 3010, freq= -1200.0
+
+G08, C/N0=35.1, peak=1.3, codei= 1563, freq= -4600.0
+
+G32, C/N0=35.3, peak=1.3, codei=  256, freq=  6400.0
+
+G22, C/N0=35.2, peak=1.1, codei= 1565, freq=     0.0
+
+G03, C/N0=35.1, peak=1.3, codei= 1836, freq=  6200.0
+
+G09, C/N0=35.7, peak=1.1, codei=  521, freq=     0.0
+
+G04, C/N0=35.6, peak=1.1, codei=  520, freq=     0.0
+
+G23, C/N0=35.3, peak=1.0, codei= 1555, freq=     0.0
+
+G10, C/N0=35.4, peak=1.4, codei=  297, freq= -1200.0
+
+G11, C/N0=35.3, peak=1.2, codei=  550, freq=  5000.0
+
+G01, C/N0=35.2, peak=1.4, codei= 3868, freq=  1400.0
+
+G12, C/N0=35.6, peak=1.2, codei= 3330, freq=     0.0
+
+G05, C/N0=35.1, peak=1.1, codei= 1142, freq=     0.0
+
+G13, C/N0=35.3, peak=1.4, codei= 2447, freq=  3800.0
+
+G24, C/N0=35.2, peak=1.1, codei= 3229, freq= -2000.0
+
+G14, C/N0=35.0, peak=1.0, codei=  270, freq=     0.0
+
+G15, C/N0=35.3, peak=1.0, codei=  497, freq=     0.0
+
+G16, C/N0=35.9, peak=1.1, codei=  939, freq=     0.0
+
+G25, C/N0=34.9, peak=1.2, codei= 2557, freq= -3800.0
+
+G17, C/N0=35.2, peak=1.0, codei= 3295, freq=     0.0
+
+G26, C/N0=35.3, peak=1.2, codei=  586, freq=  4400.0
+
+G18, C/N0=35.9, peak=1.1, codei=  588, freq=     0.0
+
+G27, C/N0=35.2, peak=1.4, codei= 3006, freq= -3600.0
+
+G06, C/N0=35.8, peak=1.1, codei=  262, freq=     0.0
+
+G19, C/N0=35.2, peak=1.4, codei= 3884, freq=  5800.0
+
+G28, C/N0=35.1, peak=1.2, codei= 2901, freq=     0.0
+
+G02, C/N0=35.4, peak=1.1, codei= 1971, freq=     0.0
+
+G29, C/N0=35.6, peak=1.5, codei= 2382, freq=  6200.0
+
+G20, C/N0=35.9, peak=1.3, codei= 3671, freq=     0.0
+
+G07, C/N0=35.8, peak=1.1, codei=  236, freq=     0.0
+
+G30, C/N0=35.8, peak=1.3, codei= 1806, freq=     0.0
+
+G21, C/N0=35.5, peak=1.2, codei= 2453, freq=     0.0
+
+G31, C/N0=35.5, peak=1.1, codei= 2853, freq=     0.0
+
+G08, C/N0=35.1, peak=1.1, codei=  199, freq=     0.0
+
+G32, C/N0=35.3, peak=1.1, codei= 1712, freq=     0.0
+
+G22, C/N0=35.0, peak=1.0, codei=  402, freq=     0.0
+
+G03, C/N0=35.6, peak=1.1, codei= 3483, freq=     0.0
+
+G09, C/N0=36.2, peak=1.1, codei= 3003, freq=     0.0
+
+G04, C/N0=35.7, peak=1.2, codei= 3558, freq=     0.0
+
+G23, C/N0=35.2, peak=1.0, codei= 2427, freq=     0.0
+
+G10, C/N0=34.8, peak=1.2, codei=  950, freq= -5200.0
+
+G11, C/N0=34.6, peak=1.2, codei= 1868, freq= -6400.0
+
+G01, C/N0=35.9, peak=1.3, codei= 2202, freq=     0.0
+
+G12, C/N0=35.9, peak=1.6, codei=   62, freq=  5600.0
+
+G05, C/N0=35.4, peak=1.0, codei= 3880, freq=     0.0
+
+G13, C/N0=36.1, peak=1.0, codei=  879, freq=     0.0
+
+G24, C/N0=35.7, peak=1.1, codei=   42, freq=     0.0
+
+G14, C/N0=35.1, peak=1.2, codei= 1730, freq=  6800.0
+
+G15, C/N0=35.6, peak=1.1, codei= 1615, freq=     0.0
+
+G16, C/N0=35.0, peak=1.0, codei= 1054, freq=     0.0
+
+G25, C/N0=35.1, peak=1.4, codei= 2456, freq= -1800.0
+
+G17, C/N0=35.2, peak=1.0, codei= 2164, freq=     0.0
+
+G26, C/N0=35.4, peak=1.0, codei= 2865, freq=     0.0
+
+G18, C/N0=35.5, peak=1.1, codei= 3836, freq=     0.0
+
+G27, C/N0=35.2, peak=1.0, codei=  957, freq=     0.0
+
+G06, C/N0=35.1, peak=1.1, codei= 2400, freq=     0.0
+
+G19, C/N0=35.4, peak=1.1, codei= 1188, freq=     0.0
+
+G28, C/N0=35.7, peak=1.3, codei= 2923, freq=  6800.0
+
+G02, C/N0=36.3, peak=1.4, codei= 3156, freq=     0.0
+
+G29, C/N0=36.2, peak=1.1, codei= 1429, freq=     0.0
+
+G20, C/N0=35.6, peak=1.0, codei= 2022, freq=     0.0
+
+G07, C/N0=35.7, peak=1.1, codei= 2386, freq=     0.0
+
+G30, C/N0=35.2, peak=1.0, codei=  528, freq=     0.0
+
+G21, C/N0=34.9, peak=1.3, codei= 1120, freq= -3000.0
+
+G31, C/N0=35.5, peak=1.1, codei= 3851, freq=     0.0
+
+G08, C/N0=35.8, peak=1.1, codei= 3849, freq=     0.0
+
+G32, C/N0=35.4, peak=1.0, codei=  958, freq=     0.0
+
+G22, C/N0=35.0, peak=1.3, codei= 2131, freq=  6600.0
+
+G03, C/N0=35.3, peak=1.1, codei= 2955, freq=     0.0
+
+G09, C/N0=36.1, peak=1.1, codei=  565, freq=     0.0
+
+G04, C/N0=35.3, peak=1.0, codei=  250, freq=     0.0
+
+G23, C/N0=35.0, peak=1.3, codei= 1241, freq=  -800.0
+
+G10, C/N0=34.9, peak=1.0, codei= 1800, freq=     0.0
+
+G11, C/N0=35.3, peak=1.2, codei= 1546, freq=  6400.0
+
+G01, C/N0=36.1, peak=1.1, codei=  781, freq=     0.0
+
+G12, C/N0=35.9, peak=1.2, codei= 3552, freq=     0.0
+
+G05, C/N0=35.6, peak=1.1, codei= 3478, freq=     0.0
+
+G13, C/N0=35.4, peak=1.0, codei= 1770, freq=     0.0
+
+G24, C/N0=35.0, peak=1.1, codei= 1912, freq=     0.0
+
+G14, C/N0=35.2, peak=1.1, codei= 3590, freq=     0.0
+
+G15, C/N0=35.1, peak=1.5, codei= 3588, freq=  6200.0
+
+G16, C/N0=35.7, peak=1.0, codei= 2445, freq=     0.0
+
+G25, C/N0=36.3, peak=1.1, codei=  937, freq=     0.0
+
+G17, C/N0=35.0, peak=1.0, codei= 3161, freq=     0.0
+
+G26, C/N0=36.1, peak=1.2, codei= 1960, freq=     0.0
+
+G18, C/N0=35.1, peak=1.0, codei=  245, freq=     0.0
+
+G27, C/N0=35.6, peak=1.4, codei= 3049, freq= -4200.0
+
+G06, C/N0=35.7, peak=1.1, codei= 3745, freq=     0.0
+
+G19, C/N0=35.4, peak=1.4, codei= 1633, freq=  7000.0
+
+G28, C/N0=35.4, peak=1.3, codei= 2963, freq= -2600.0
+
+G02, C/N0=35.5, peak=1.1, codei= 2924, freq=     0.0
+
+G29, C/N0=35.4, peak=1.1, codei= 3074, freq=     0.0
+
+G20, C/N0=36.0, peak=1.0, codei= 3202, freq=     0.0
+
+G07, C/N0=35.1, peak=1.1, codei=  636, freq=     0.0
+
+G30, C/N0=35.3, peak=1.1, codei= 2956, freq=     0.0
+
+G21, C/N0=35.5, peak=1.1, codei=  398, freq=     0.0
+
+G31, C/N0=35.5, peak=1.1, codei= 2298, freq=     0.0
+
+G08, C/N0=35.3, peak=1.2, codei=  914, freq=  1800.0
+
+G32, C/N0=35.0, peak=1.1, codei= 3448, freq=     0.0
+
+G22, C/N0=35.6, peak=1.1, codei= 3639, freq=     0.0
+
+G03, C/N0=35.7, peak=1.0, codei=  604, freq=     0.0
+
+G09, C/N0=35.1, peak=1.0, codei= 3872, freq=     0.0
+
+G04, C/N0=35.3, peak=1.0, codei= 3907, freq=     0.0
+
+G23, C/N0=36.5, peak=1.9, codei= 2202, freq= -1000.0
+
+G10, C/N0=35.8, peak=1.0, codei= 3675, freq=     0.0
+
+G11, C/N0=35.1, peak=1.1, codei= 1360, freq=   200.0
+
+G01, C/N0=35.2, peak=1.1, codei= 2945, freq=     0.0
+
+G12, C/N0=36.1, peak=1.2, codei= 1899, freq=     0.0
+
+G05, C/N0=34.8, peak=1.1, codei= 3165, freq= -1200.0
+
+G13, C/N0=35.0, peak=1.0, codei= 2047, freq=     0.0
+
+G24, C/N0=35.6, peak=1.0, codei= 3506, freq=     0.0
+
+G14, C/N0=34.8, peak=1.1, codei= 1825, freq=     0.0
+
+G15, C/N0=36.0, peak=1.1, codei= 2684, freq=     0.0
+
+G16, C/N0=35.4, peak=1.0, codei=  148, freq=     0.0
+
+G25, C/N0=35.7, peak=1.1, codei= 1442, freq=     0.0
+
+G17, C/N0=35.4, peak=1.1, codei= 1589, freq=     0.0
+
+G26, C/N0=35.2, peak=1.0, codei= 1230, freq=     0.0
+
+G18, C/N0=35.3, peak=1.1, codei= 2441, freq=     0.0
+
+G27, C/N0=35.6, peak=1.2, codei= 2371, freq=     0.0
+
+G06, C/N0=35.4, peak=1.0, codei= 2043, freq=     0.0
+
+G19, C/N0=35.8, peak=1.3, codei=   93, freq=     0.0
+
+G28, C/N0=35.2, peak=1.2, codei= 1899, freq=     0.0
+
+G02, C/N0=35.0, peak=1.3, codei= 2036, freq= -1800.0
+
+G29, C/N0=36.0, peak=1.1, codei=  245, freq=     0.0
+
+G20, C/N0=34.6, peak=1.2, codei= 3483, freq=  1000.0
+
+G07, C/N0=35.2, peak=1.5, codei=  379, freq= -3400.0
+
+G30, C/N0=35.0, peak=1.3, codei= 3281, freq=  4800.0
+
+G21, C/N0=35.4, peak=1.2, codei= 1633, freq=     0.0
+
+G31, C/N0=35.5, peak=1.1, codei=  259, freq=     0.0
+
+G08, C/N0=34.8, peak=1.3, codei= 2822, freq=  2800.0
+
+G32, C/N0=35.4, peak=1.1, codei= 2078, freq=     0.0
+
+G22, C/N0=35.8, peak=1.0, codei= 2171, freq=     0.0
+
+G03, C/N0=35.7, peak=1.2, codei= 1081, freq=     0.0
+
+G09, C/N0=35.2, peak=1.3, codei= 1631, freq=  2800.0
+
+G04, C/N0=35.7, peak=1.1, codei= 1663, freq=     0.0
+
+G23, C/N0=36.3, peak=1.3, codei= 1012, freq=     0.0
+
+G10, C/N0=35.2, peak=1.0, codei=  848, freq=     0.0
+
+G11, C/N0=35.3, peak=1.0, codei= 2117, freq=     0.0
+
+G01, C/N0=35.5, peak=1.3, codei= 2103, freq= -6800.0
+
+G12, C/N0=35.7, peak=1.1, codei= 3958, freq=     0.0
+
+G05, C/N0=35.5, peak=1.5, codei= 1778, freq= -4800.0
+
+G13, C/N0=36.5, peak=1.3, codei= 2036, freq=     0.0
+
+G24, C/N0=35.0, peak=1.3, codei= 2741, freq=  3600.0
+
+G14, C/N0=35.0, peak=1.0, codei= 3914, freq=     0.0
+
+G15, C/N0=36.2, peak=1.1, codei= 2347, freq=     0.0
+
+G16, C/N0=36.2, peak=1.2, codei=   82, freq=     0.0
+
+G25, C/N0=35.4, peak=1.1, codei= 3564, freq=     0.0
+
+G17, C/N0=35.3, peak=1.0, codei= 2496, freq=     0.0
+
+G26, C/N0=35.0, peak=1.1, codei= 2931, freq=   400.0
+
+G18, C/N0=35.6, peak=1.2, codei= 3972, freq=     0.0
+
+G27, C/N0=35.5, peak=1.2, codei= 1144, freq=     0.0
+
+G06, C/N0=34.7, peak=1.3, codei= 2639, freq= -2600.0
+
+G19, C/N0=35.0, peak=1.3, codei= 3168, freq=  4000.0
+
+G28, C/N0=35.6, peak=1.0, codei= 1671, freq=     0.0
+
+G02, C/N0=35.7, peak=1.1, codei= 3080, freq=     0.0
+
+G29, C/N0=35.3, peak=1.0, codei= 2899, freq=     0.0
+
+G20, C/N0=35.3, peak=1.0, codei= 2731, freq=     0.0
+
+G07, C/N0=35.0, peak=1.0, codei= 1674, freq=     0.0
+
+G30, C/N0=35.9, peak=1.2, codei= 3153, freq=     0.0
+
+G21, C/N0=35.8, peak=1.1, codei= 3811, freq=     0.0
+
+G31, C/N0=35.2, peak=1.0, codei=  170, freq=     0.0
+
+G08, C/N0=35.2, peak=1.0, codei= 2699, freq=     0.0
+
+G32, C/N0=35.3, peak=1.1, codei= 2475, freq=     0.0
+
+G22, C/N0=36.0, peak=1.2, codei= 3621, freq=     0.0
+
+G03, C/N0=35.6, peak=1.1, codei= 3143, freq=     0.0
+
+G09, C/N0=35.5, peak=1.1, codei=  888, freq=     0.0
+
+G04, C/N0=34.7, peak=1.1, codei=  931, freq= -1000.0
+
+G23, C/N0=35.0, peak=1.1, codei= 1340, freq=     0.0
+
+G10, C/N0=35.7, peak=1.0, codei= 2487, freq=     0.0
+
+G11, C/N0=36.0, peak=1.3, codei= 3223, freq=     0.0
+
+G01, C/N0=35.6, peak=1.1, codei= 3164, freq=     0.0
+
+G12, C/N0=35.2, peak=1.0, codei= 2139, freq=     0.0
+
+G05, C/N0=35.2, peak=1.1, codei= 2057, freq=     0.0
+
+G13, C/N0=36.3, peak=1.4, codei= 1100, freq=     0.0
+
+G24, C/N0=36.2, peak=1.2, codei=  732, freq=     0.0
+
+G14, C/N0=35.7, peak=1.1, codei= 1822, freq=     0.0
+
+G15, C/N0=34.9, peak=1.0, codei=  117, freq=     0.0
+
+G16, C/N0=35.7, peak=1.2, codei= 1632, freq=     0.0
+
+G25, C/N0=35.8, peak=1.2, codei= 1760, freq=     0.0
+
+G17, C/N0=35.4, peak=1.1, codei= 3246, freq=     0.0
+
+G26, C/N0=36.0, peak=1.0, codei= 2675, freq=     0.0
+
+G18, C/N0=35.0, peak=1.4, codei= 1435, freq= -5200.0
+
+G27, C/N0=35.2, peak=1.0, codei= 2297, freq=     0.0
+
+G06, C/N0=35.1, peak=1.1, codei= 1321, freq= -1200.0
+
+G19, C/N0=35.0, peak=1.1, codei= 2940, freq=  1600.0
+
+G28, C/N0=35.3, peak=1.3, codei= 3991, freq=  4800.0
+
+G02, C/N0=35.8, peak=1.2, codei=   46, freq=     0.0
+
+G29, C/N0=35.3, peak=1.1, codei= 3261, freq=     0.0
+
+G20, C/N0=35.6, peak=1.0, codei= 3109, freq=     0.0
+
+G07, C/N0=34.9, peak=1.0, codei= 3250, freq=     0.0
+
+G30, C/N0=35.6, peak=1.0, codei=  842, freq=     0.0
+
+G21, C/N0=35.8, peak=1.1, codei=  574, freq=     0.0
+
+G31, C/N0=35.1, peak=1.1, codei= 3879, freq=     0.0
+
+G08, C/N0=35.1, peak=1.4, codei= 2456, freq= -6400.0
+
+G32, C/N0=35.5, peak=1.0, codei= 1930, freq=     0.0
+
+G22, C/N0=35.4, peak=1.0, codei= 2536, freq=     0.0
+
+G03, C/N0=36.0, peak=1.1, codei= 2696, freq=     0.0
+
+G09, C/N0=35.6, peak=1.1, codei= 3182, freq=     0.0
+
+G04, C/N0=35.0, peak=1.0, codei= 3068, freq=     0.0
+
+G23, C/N0=36.9, peak=1.5, codei= 3270, freq=     0.0
+
+G10, C/N0=35.4, peak=1.1, codei= 1135, freq=     0.0
+
+G11, C/N0=34.7, peak=1.1, codei=  849, freq=  1400.0
+
+G01, C/N0=36.2, peak=1.4, codei= 2991, freq= -1200.0
+
+G12, C/N0=35.3, peak=1.1, codei= 2322, freq=     0.0
+
+G05, C/N0=35.4, peak=1.1, codei=  878, freq=     0.0
+
+G13, C/N0=35.3, peak=1.2, codei= 2924, freq=  3400.0
+
+G24, C/N0=36.1, peak=1.3, codei= 2185, freq=     0.0
+
+G14, C/N0=34.7, peak=1.0, codei= 2222, freq=     0.0
+
+G15, C/N0=35.7, peak=1.0, codei=  934, freq=     0.0
+
+G16, C/N0=35.0, peak=1.2, codei= 3106, freq=  6800.0
+
+G25, C/N0=35.4, peak=1.3, codei= 2857, freq=  7000.0
+
+G17, C/N0=35.1, peak=1.0, codei= 3442, freq=     0.0
+
+G26, C/N0=35.3, peak=1.1, codei= 2835, freq=     0.0
+
+G18, C/N0=35.3, peak=1.4, codei= 2784, freq=  3200.0
+
+G27, C/N0=36.4, peak=1.4, codei= 1208, freq=     0.0
+
+G06, C/N0=35.0, peak=1.3, codei= 3187, freq= -3000.0
+
+G19, C/N0=35.3, peak=1.3, codei= 3370, freq= -3200.0
+
+G28, C/N0=36.0, peak=1.2, codei= 2527, freq=     0.0
+
+G02, C/N0=36.3, peak=1.1, codei= 1792, freq=     0.0
+
+G29, C/N0=34.9, peak=1.2, codei= 3028, freq= -4800.0
+
+G20, C/N0=36.0, peak=1.0, codei= 3195, freq=     0.0
+
+G07, C/N0=35.3, peak=1.0, codei= 1448, freq=     0.0
+
+G30, C/N0=36.0, peak=1.3, codei= 3450, freq=     0.0
+
+G21, C/N0=36.0, peak=1.1, codei= 2666, freq=     0.0
+
+G31, C/N0=35.2, peak=1.1, codei= 2623, freq=     0.0
+
+G08, C/N0=34.7, peak=1.0, codei= 3350, freq=     0.0
+
+G32, C/N0=34.8, peak=1.2, codei= 3874, freq= -1600.0
+
+G22, C/N0=36.2, peak=1.2, codei= 1749, freq=     0.0
+
+G03, C/N0=35.3, peak=1.1, codei= 1363, freq=     0.0
+
+G09, C/N0=35.2, peak=1.3, codei=  864, freq=  3800.0
+
+G04, C/N0=35.7, peak=1.6, codei= 3361, freq=  1600.0
+
+G23, C/N0=35.1, peak=1.0, codei=  165, freq=     0.0
+
+G10, C/N0=36.6, peak=1.5, codei= 2513, freq=     0.0
+
+G11, C/N0=36.3, peak=1.1, codei=  475, freq=     0.0
+
+G01, C/N0=34.9, peak=1.0, codei=  516, freq=     0.0
+
+G12, C/N0=35.1, peak=1.1, codei=  374, freq=     0.0
+
+G05, C/N0=35.6, peak=1.0, codei= 3025, freq=     0.0
+
+G13, C/N0=36.3, peak=1.3, codei=  229, freq=     0.0
+
+G24, C/N0=35.7, peak=1.2, codei= 2821, freq=     0.0
+
+G14, C/N0=36.0, peak=1.2, codei= 3584, freq=     0.0
+
+G15, C/N0=34.8, peak=1.1, codei= 3309, freq=  2200.0
+
+G16, C/N0=35.2, peak=1.0, codei=  745, freq=     0.0
+
+G25, C/N0=35.6, peak=1.0, codei= 3823, freq=     0.0
+
+G17, C/N0=35.1, peak=1.1, codei= 3378, freq=  -800.0
+
+G26, C/N0=35.6, peak=1.2, codei= 3693, freq=     0.0
+
+G18, C/N0=35.2, peak=1.1, codei=  621, freq=     0.0
+
+G27, C/N0=35.7, peak=1.0, codei=  379, freq=     0.0
+
+G06, C/N0=35.8, peak=1.1, codei= 3231, freq=     0.0
+
+G19, C/N0=35.6, peak=1.1, codei= 3732, freq=     0.0
+
+G28, C/N0=34.8, peak=1.0, codei= 2757, freq=     0.0
+
+G02, C/N0=35.5, peak=1.4, codei= 3574, freq=  5600.0
+
+G29, C/N0=35.1, peak=1.2, codei= 3516, freq= -6000.0
+
+G20, C/N0=35.1, peak=1.1, codei= 2748, freq=     0.0
+
+G07, C/N0=35.4, peak=1.0, codei= 2394, freq=     0.0
+
+G30, C/N0=35.4, peak=1.0, codei= 2379, freq=     0.0
+
+G21, C/N0=34.7, peak=1.0, codei= 1059, freq=     0.0
+
+G31, C/N0=37.0, peak=1.7, codei= 3595, freq=     0.0
+
+G08, C/N0=36.1, peak=1.2, codei= 2315, freq=     0.0
+
+G32, C/N0=35.7, peak=1.2, codei= 3649, freq=     0.0
+
+G22, C/N0=36.0, peak=1.1, codei= 3432, freq=     0.0
+
+G03, C/N0=36.2, peak=1.1, codei= 3881, freq=     0.0
+
+G09, C/N0=36.1, peak=1.1, codei= 2042, freq=     0.0
+
+G04, C/N0=35.2, peak=1.0, codei= 2311, freq=     0.0
+
+G23, C/N0=35.9, peak=1.1, codei= 1524, freq=     0.0
+
+G10, C/N0=35.9, peak=1.1, codei= 1488, freq=     0.0
+
+G11, C/N0=35.1, peak=1.1, codei=  463, freq=     0.0
+
+G01, C/N0=35.7, peak=1.1, codei= 2903, freq=     0.0
+
+G12, C/N0=36.9, peak=1.3, codei= 1895, freq=     0.0
+
+G05, C/N0=35.4, peak=1.0, codei=  299, freq=     0.0
+
+G13, C/N0=35.2, peak=1.0, codei= 3496, freq=     0.0
+
+G24, C/N0=35.4, peak=1.1, codei= 2040, freq=     0.0
+
+G14, C/N0=35.4, peak=1.1, codei= 1268, freq=     0.0
+
+G15, C/N0=35.6, peak=1.3, codei= 3385, freq=     0.0
+
+G16, C/N0=35.2, peak=1.1, codei= 3246, freq=     0.0
+
+G25, C/N0=35.0, peak=1.0, codei= 3564, freq=     0.0
+
+G17, C/N0=35.8, peak=1.4, codei= 3803, freq=  -800.0
+
+G26, C/N0=35.1, peak=1.0, codei= 3668, freq=     0.0
+
+G18, C/N0=35.8, peak=1.1, codei= 3430, freq=     0.0
+
+G27, C/N0=36.0, peak=1.2, codei= 1442, freq=     0.0
+
+G06, C/N0=35.4, peak=1.0, codei= 3316, freq=     0.0
+
+G19, C/N0=35.7, peak=1.4, codei= 3748, freq= -6800.0
+
+G28, C/N0=35.1, peak=1.3, codei=   74, freq=  5600.0
+
+G02, C/N0=35.0, peak=1.1, codei= 3083, freq=     0.0
+
+G29, C/N0=35.4, peak=1.1, codei= 1350, freq=     0.0
+
+G20, C/N0=35.5, peak=1.2, codei=  845, freq=     0.0
+
+G07, C/N0=34.8, peak=1.2, codei= 2514, freq=   800.0
+
+G30, C/N0=35.7, peak=1.2, codei=  903, freq=     0.0
+
+G21, C/N0=35.3, peak=1.1, codei= 3612, freq=     0.0
+
+G31, C/N0=35.7, peak=1.1, codei= 1549, freq=     0.0
+
+G08, C/N0=35.3, peak=1.0, codei=  965, freq=     0.0
+
+G32, C/N0=35.1, peak=1.3, codei=  438, freq=   800.0
+
+G22, C/N0=35.2, peak=1.1, codei=  520, freq=     0.0
+
+G03, C/N0=35.8, peak=1.0, codei=  896, freq=     0.0
+
+G09, C/N0=35.6, peak=1.1, codei=   33, freq=     0.0
+
+G04, C/N0=35.2, peak=1.0, codei=  555, freq=     0.0
+
+G23, C/N0=34.6, peak=1.1, codei=  649, freq= -2000.0
+
+G10, C/N0=35.8, peak=1.1, codei= 3121, freq=     0.0
+
+G11, C/N0=35.5, peak=1.0, codei= 3145, freq=     0.0
+
+G01, C/N0=34.9, peak=1.1, codei=  571, freq=  4000.0
+
+G12, C/N0=35.5, peak=1.1, codei= 2588, freq=     0.0
+
+G05, C/N0=36.0, peak=1.1, codei= 1502, freq=     0.0
+
+G13, C/N0=35.2, peak=1.0, codei=  684, freq=     0.0
+
+G24, C/N0=34.8, peak=1.1, codei= 1148, freq= -5200.0
+
+G14, C/N0=35.1, peak=1.0, codei= 2867, freq=     0.0
+
+G15, C/N0=35.4, peak=1.0, codei=  794, freq=     0.0
+
+G16, C/N0=36.1, peak=1.2, codei=  854, freq=     0.0
+
+end of file!
+
+SDR syncthread finished!
+
+SDR channel G11 thread finished!
+
+SDR channel G01 thread finished!
+
+SDR channel G12 thread finished!
+
+G25, C/N0=35.3, peak=1.1, codei= 2185, freq=     0.0
+
+G17, C/N0=35.2, peak=1.0, codei= 2588, freq=  2800.0
+
+SDR channel G05 thread finished!
+
+SDR channel G13 thread finished!
+
+G26, C/N0=35.2, peak=1.1, codei= 3899, freq=     0.0
+
+SDR channel G24 thread finished!
+
+G18, C/N0=35.3, peak=1.1, codei= 2815, freq=     0.0
+
+SDR channel G14 thread finished!
+
+SDR channel G15 thread finished!
+
+G27, C/N0=36.9, peak=1.2, codei= 2335, freq=     0.0
+
+SDR channel G16 thread finished!
+
+G06, C/N0=35.6, peak=1.1, codei= 1463, freq=     0.0
+
+G19, C/N0=35.1, peak=1.0, codei= 2459, freq=     0.0
+
+SDR channel G25 thread finished!
+
+G28, C/N0=35.9, peak=1.0, codei= 1522, freq=     0.0
+
+G02, C/N0=35.5, peak=1.0, codei= 2182, freq=     0.0
+
+SDR channel G17 thread finished!
+
+G29, C/N0=35.2, peak=1.3, codei= 1328, freq= -5400.0
+
+G20, C/N0=35.8, peak=1.0, codei= 1037, freq=     0.0
+
+SDR channel G26 thread finished!
+
+G07, C/N0=35.7, peak=1.2, codei= 1834, freq=     0.0
+
+G30, C/N0=35.1, peak=1.0, codei= 3969, freq=     0.0
+
+SDR channel G18 thread finished!
+
+G21, C/N0=35.6, peak=1.1, codei= 3209, freq=     0.0
+
+G31, C/N0=35.1, peak=1.1, codei= 1219, freq=     0.0
+
+G08, C/N0=35.5, peak=1.0, codei= 1122, freq=     0.0
+
+G32, C/N0=35.2, peak=1.1, codei= 2518, freq=     0.0
+
+SDR channel G27 thread finished!
+
+G22, C/N0=35.1, peak=1.4, codei= 1509, freq=  3000.0
+
+G03, C/N0=35.2, peak=1.2, codei= 3345, freq=  -600.0
+
+SDR channel G06 thread finished!
+
+G09, C/N0=35.7, peak=1.1, codei= 3108, freq=     0.0
+
+G04, C/N0=35.9, peak=1.1, codei= 2518, freq=     0.0
+
+G23, C/N0=35.6, peak=1.1, codei= 1836, freq=     0.0
+
+G10, C/N0=35.4, peak=1.1, codei=  633, freq=     0.0
+
+SDR channel G19 thread finished!
+
+SDR channel G28 thread finished!
+
+SDR channel G02 thread finished!
+
+SDR channel G29 thread finished!
+
+SDR channel G20 thread finished!
+
+SDR channel G07 thread finished!
+
+SDR channel G30 thread finished!
+
+SDR channel G21 thread finished!
+
+SDR channel G31 thread finished!
+
+SDR channel G08 thread finished!
+
+SDR channel G32 thread finished!
+
+SDR channel G22 thread finished!
+
+SDR channel G03 thread finished!
+
+SDR channel G09 thread finished!
+
+SDR channel G04 thread finished!
+
+SDR channel G23 thread finished!
+
+SDR channel G10 thread finished!
+
+GNSS-SDRLIB is finished!
+
